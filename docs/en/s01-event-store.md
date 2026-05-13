@@ -105,7 +105,7 @@ Each event is human-readable; that's deliberate. The upstream server's
 operator tooling (`oh logs`, `oh export-conversation`) is mostly
 "`cat` the directory tree".
 
-## Upstream source reading
+## Upstream Source Reading
 
 Open [`upstream-readings/s01-event-store.py`](../../upstream-readings/s01-event-store.py).
 It excerpts `event_service.py` (the abstract base) and
